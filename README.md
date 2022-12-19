@@ -1,4 +1,4 @@
-# Fullstack Graphql
+# Fullstack GraphQL
  Learn how to write react, GraphQL, MUI, in vscode
 
 ## Learn
